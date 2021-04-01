@@ -11,8 +11,6 @@ For example, if you want to build a self learning car. You can spend years to bu
 * [NLP Pre-trained Models](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/tree/main/NLP_pretrained_model).
 * [Audio and Speech Pre-trained Models](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/tree/main/Audio_pretrained_model)
 
-## Model Deployment library
-* [Model Serving](https://github.com/balavenkatesh3322/model_deployment)
 
 ### Framework
 
