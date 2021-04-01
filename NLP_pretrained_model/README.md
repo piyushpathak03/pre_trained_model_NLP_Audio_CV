@@ -1,6 +1,6 @@
 # NLP-pretrained-model
 
-![NLP logo](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/blob/main/Audio_pretrained_model/logo.jpg)
+![NLP logo](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/blob/main/NLP_pretrained_model/logo.jpg)
 
 ## What is pre-trained Model?
 A pre-trained model is a model created by some one else to solve a similar problem. Instead of building a model from scratch to solve a similar problem, we can use the model trained on other problem as a starting point. A pre-trained model may not be 100% accurate in your application.
