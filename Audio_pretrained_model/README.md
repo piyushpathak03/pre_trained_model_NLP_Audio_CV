@@ -1,18 +1,13 @@
-![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)
-![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
-![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
-![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-
 # Audio and Speech Pre-trained Models
 
-![NLP logo](https://github.com/balavenkatesh3322/audio-pretrained-model/blob/master/logo.jpg)
+![NLP logo](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/blob/main/Audio_pretrained_model/logo.jpg)
 
 ## What is pre-trained Model?
 A pre-trained model is a model created by some one else to solve a similar problem. Instead of building a model from scratch to solve a similar problem, we can use the model trained on other problem as a starting point. A pre-trained model may not be 100% accurate in your application.
 
 ## Other Pre-trained Models
-* [NLP Pre-trained Models](https://github.com/balavenkatesh3322/NLP-pretrained-model).
-* [Computer Vision Pre-trained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)
+* [NLP Pre-trained Models](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/tree/main/NLP_pretrained_model).
+* [Computer Vision Pre-trained Models](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/tree/main/CV_pretrained_model)
 
 ### Framework
 
@@ -26,7 +21,7 @@ A pre-trained model is a model created by some one else to solve a similar probl
 ### Model visualization
 You can see visualizations of each model's network architecture by using [Netron](https://github.com/lutzroeder/Netron).
 
-![NLP logo](https://github.com/balavenkatesh3322/NLP-pretrained-model/blob/master/netron.png)
+![NLP logo](https://github.com/piyushpathak03/pre_trained_model_NLP_Audio_CV/blob/main/NLP_pretrained_model/netron.png)
 
 ### Tensorflow <a name="tensorflow"/>
 
@@ -111,6 +106,19 @@ You can see visualizations of each model's network architecture by using [Netron
 Your contributions are always welcome!!
 Please have a look at contributing.md
 
-## License
+## About me
 
-[MIT License](LICENSE)
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
